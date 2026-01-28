@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RecruApplication<recru>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.recru.RecruApplication",
+            "projectName": "recru",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
